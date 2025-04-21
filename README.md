@@ -1,7 +1,7 @@
 # 🧩 4 Pictures 1 Word Game
 4 Pictures 1 Word is a fun and engaging Android word puzzle game where players must guess the common word represented by four different pictures. The app is designed with clean architecture using Single Activity, Fragments, and persistent game data stored via SharedPreferences.
 
-# 🎯 Features
+# 📌 Features:
 🖼 4 Images, 1 Word Puzzle – Guess the correct word based on four related pictures.
 
 📱 Fragment-Based Navigation – Built with a Single Activity and multiple Fragments.
@@ -10,7 +10,7 @@
 
 🌙 Simple and Clean Design – Easy to navigate and fun to play.
 
-# 🛠 Tech Stack
+# 🛠  Technologies:
 
 Technology	Description
 
@@ -26,12 +26,10 @@ Dialog	Custom pop-ups for feedback and interactions
 
 #
 <p float="left">
-  <img src="images/photo_2025-04-16_10-32-35.jpg" width="150"/>
-  <img src="images/photo_2025-04-16_10-32-38.jpg" width="150"/>
-  <img src="images/photo_2025-04-16_10-32-40.jpg" width="150"/>
-  <img src="images/photo_2025-04-16_10-32-41.jpg" width="150"/>
-  <img src="images/photo_2025-04-16_10-32-43.jpg" width="150"/>
-  <img src="images/photo_2025-04-16_10-32-44.jpg" width="150"/>
+  <img src="images/photo_2025-04-21_13-44-56.jpg" width="150"/>
+  <img src="images/photo_2025-04-21_13-44-56.jpg" width="150"/>
+  <img src="images/photo_2025-04-21_13-44-58 (2).jpg" width="150"/>
+  <img src="images/photo_2025-04-21_13-45-00.jpg" width="150"/>
 </p>
 
 # 🚀 Running the Project
