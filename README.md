@@ -27,7 +27,7 @@ Dialog	Custom pop-ups for feedback and interactions
 #
 <p float="left">
   <img src="images/photo_2025-04-21_13-44-56.jpg" width="150"/>
-  <img src="images/photo_2025-04-21_13-44-56.jpg" width="150"/>
+  <img src="images/photo_2025-04-21_13-44-58.jpg" width="150"/>
   <img src="images/photo_2025-04-21_13-44-58 (2).jpg" width="150"/>
   <img src="images/photo_2025-04-21_13-45-00.jpg" width="150"/>
 </p>
